@@ -1,7 +1,7 @@
 {
   "name": "substandard",
   "description": "All the goodness of `Flet/semistandard`, but with tabs. Because habits. And eyes.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": {
     "email": "jeff.mixon@gmail.com",
     "name": "Jeff Mixon",
@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "eslint": "~3.15.0",
-    "eslint-config-substandard": "1.0.0",
+    "eslint-config-substandard": "1.1.0",
     "eslint-config-standard": "^6.2.1",
     "eslint-config-standard-jsx": "3.3.0",
     "eslint-plugin-promise": "~3.4.0",
