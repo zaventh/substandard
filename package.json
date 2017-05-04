@@ -1,7 +1,7 @@
 {
   "name": "substandard",
-  "description": "All the goodness of `Flet/semistandard`, but with tabs. Because habits. And eyes.",
-  "version": "1.1.0",
+  "description": "Substituting tabs for spaces. Because every war has two sides.",
+  "version": "2.0.1",
   "author": {
     "email": "jeff.mixon@gmail.com",
     "name": "Jeff Mixon",
@@ -14,24 +14,24 @@
     "url": "https://github.com/zaventh/substandard/issues"
   },
   "dependencies": {
-    "eslint": "~3.15.0",
-    "eslint-config-substandard": "1.1.0",
-    "eslint-config-standard": "^6.2.1",
-    "eslint-config-standard-jsx": "3.3.0",
-    "eslint-plugin-promise": "~3.4.0",
-    "eslint-plugin-react": "~6.9.0",
-    "eslint-plugin-standard": "~2.0.1",
-    "standard-engine": "~5.4.0",
-    "eslint-config-semistandard": "^7.0.0"
+    "eslint": "~3.19.0",
+    "eslint-config-substandard": "2.0.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-config-standard-jsx": "4.0.1",
+    "eslint-plugin-promise": "~3.5.0",
+    "eslint-plugin-react": "~6.10.3",
+    "eslint-plugin-standard": "~3.0.1",
+    "standard-engine": "~7.0.0",
+    "eslint-config-semistandard": "^11.0.0"
   },
   "devDependencies": {
     "merge": "^1.2.0",
     "mkdirp": "^0.5.1",
-    "rimraf": "^2.5.4",
-    "run-series": "^1.1.1",
-    "standard": "^8.6.0",
+    "rimraf": "^2.6.1",
+    "run-series": "^1.1.4",
+    "standard": "^10.0.2",
     "tape": "^4.6.3",
-    "xtend": "^4.0.0"
+    "xtend": "^4.0.1"
   },
   "homepage": "https://github.com/zaventh/substandard",
   "keywords": [
@@ -59,7 +59,10 @@
     "style",
     "style checker",
     "style linter",
-    "verify"
+    "verify",
+    "semistandard",
+    "substandard",
+    "tabs"
   ],
   "license": "MIT",
   "main": "index.js",

@@ -4,7 +4,7 @@
 
 ### The Great Tabulator
 
-All the goodness of [Flet/semistandard] but with tabs. Because habits. And eyes.
+Substituting tabs for spaces. Because every war has two sides.
 
 ## Install
 
@@ -17,8 +17,7 @@ npm install substandard
 Importantly:
 
 - **tab indents**
-- semicolons
-- Check [feross/standard] for the rest of the rules.
+- Check [Flet/semistandard], [feross/standard] for the rest of the rules.
 
 ## Badge
 
@@ -68,7 +67,7 @@ Error: Use JavaScript Sub-Standard Style
       "substandard": "*"
     },
     "scripts": {
-      "test": "substandard && node my-normal-tests-littered-with-semicolons.js"
+      "test": "substandard && node my-normal-tests-littered-with-tabs.js"
     }
   }
   ```
