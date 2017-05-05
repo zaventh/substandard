@@ -1,7 +1,7 @@
 {
   "name": "substandard",
   "description": "Substituting tabs for spaces. Because every war has two sides.",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "author": {
     "email": "jeff.mixon@gmail.com",
     "name": "Jeff Mixon",
@@ -21,6 +21,8 @@
     "eslint-plugin-promise": "~3.5.0",
     "eslint-plugin-react": "~6.10.3",
     "eslint-plugin-standard": "~3.0.1",
+    "eslint-plugin-import": "~2.2.0",
+    "eslint-plugin-node": "~4.2.2",
     "standard-engine": "~7.0.0",
     "eslint-config-semistandard": "^11.0.0"
   },
